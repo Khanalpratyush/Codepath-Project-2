@@ -1,0 +1,13 @@
+.question-image {
+    width: 7.5rem;
+}
+
+.question-box {
+    margin: auto;
+    padding: 1.5rem;
+    width: 25rem;
+    height: 25rem;
+    padding-top: 5rem;
+    padding-bottom: 0rem;
+}
+
