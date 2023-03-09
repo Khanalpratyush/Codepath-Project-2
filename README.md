@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
- <img src="https://imgur.com/jSMTr16" alt="Walkthrough">
+ <img src="https://imgur.com/zBjKvBS.gif" alt="Walkthrough">
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
