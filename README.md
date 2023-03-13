@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
  <img src="https://i.imgur.com/YVE7pV5.gif" alt="Walkthrough">
- <img src = "https://i.imgur.com/NdMINCM.gif" >
+ <img src = "https://i.imgur.com/NdMINCM" >
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
